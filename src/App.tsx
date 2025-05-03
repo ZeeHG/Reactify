@@ -1,6 +1,8 @@
 import React from "react";
 import Button from "./components/Button/button";
-
+import Alert from "./components/Alert/alert";
+import Menu from "./components/Menu/menu";
+import MenuItem from "./components/Menu/menuItem";
 function App() {
   return (
     <div className="App">
